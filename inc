@@ -1,5 +1,4 @@
-{
-  "wallpapers": [
+[
     {
       "name": "BAPE",
       "author": "ThemesOnFire",
@@ -428,4 +427,3 @@
       "copyright": "Google Plus or Unsplash"
     }
   ]
-}
