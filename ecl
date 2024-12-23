@@ -1,5 +1,4 @@
-{
-  "wallpapers": [
+[
     {
       "name": "Original Deer",
       "author": "ThemesOnFire",
@@ -233,4 +232,3 @@
       "dimensions": "5120 x 2880"
     }
   ]
-}
